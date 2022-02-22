@@ -1,0 +1,11 @@
+{
+  "name": "discuss-cc",
+  "version": "latest",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discuss": "0.1.7"
+  }
+}
