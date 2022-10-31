@@ -6,6 +6,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discuss": "1.1.8"
+    "discuss": "1.1.10"
   }
 }
